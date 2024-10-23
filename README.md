@@ -22,3 +22,4 @@ Within <head>, include a link to a CSS file named stylesheet.css.
           Categories should be selectable through radio buttons offering predefined options (e.g., fruit, dairy).
 >>>>>>> 70e264ef7af647109346623d8618020650621a68
 # React-Shout-Out
+# Calculater-react-app
